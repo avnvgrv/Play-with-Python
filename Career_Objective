@@ -1,0 +1,3 @@
+career_objective_hopefully = ["name":"abhinav gaurav","first employer":"cognizant technology services","second employer":"some game studio","final employer":"sequoia capital"];
+
+print(career_objective_hopefully);
